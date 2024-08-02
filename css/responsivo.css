@@ -1,0 +1,30 @@
+@media screen and (max-width:1230px){
+    .menu{
+        display:none;
+    }
+
+    .navbar{
+        position:relative;
+    }
+
+    .logo{
+        margin:0;
+        text-align: center;
+    }
+
+    .header{
+        padding-top:20px;
+    }
+
+    .headline{
+        flex:100%;
+        text-align:center;
+        margin: 5%;
+    }
+
+    .img-headline{
+        flex:100%;
+        margin:0.5%;
+        text-align: center;
+    }
+}
