@@ -301,3 +301,8 @@ footer{
     font-family: 'Lobster', cursive;
     color:#180F4A;
 }
+
+b{
+    color:#FF2978;
+    display:block;
+}
