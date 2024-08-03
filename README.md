@@ -26,7 +26,7 @@ Facas Dopplers é um site responsivo e informativo sobre as facas Dopplers do jo
 
 <h2 id="started">Instrução de instalação</h2>
 
-Aqui você decide como rodar seu próprio projeto
+Aqui você decide como rodar seu próprio projeto.
 
 <h3>Pré-requisitos</h3>
 
@@ -37,10 +37,10 @@ Aqui está a lista de todos os pré-requisitos necessários para rodar seu proje
 
 <h3>Instrução de uso</h3>
 
-1. Crie do arquivo index.html
-2. Crie a pasta css
-3. Crie a pasta img
-4. Dentro da pasta css, crie o arquivo estilo.css e o arquivo responsivo.css
+1. Crie o arquivo index.html.
+2. Crie a pasta css.
+3. Crie a pasta img.
+4. Dentro da pasta css, crie o arquivo estilo.css e o arquivo responsivo.css.
 3. Copie ou transfira todas as imagens baixadas e cole na pasta "img".
 
 <h2 id="contribute">📫 Contribuição</h2>
@@ -62,3 +62,4 @@ Irei rever a sua solicitação de pull. Participe da discussão e faça as alter
 <h3>Links Úteis</h3>
 
 - [Layout](https://www.youtube.com/watch?v=6gRtjwD2w88&list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c)
+- [Layout como referência](https://skinport.com/blog/cs2-doppler-phases-guide)
