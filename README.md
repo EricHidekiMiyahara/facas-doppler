@@ -9,7 +9,8 @@
 <p align="center">
  <a href="#about">Sobre</a> • 
  <a href="#started">Instrução de instalação</a> • 
- <a href="#contribute">Contribuição</a>
+ <a href="#contribute">Contribuição</a> •
+ <a href="#links">Links Úteis</a>
 </p>
 
 <p align="center">
@@ -59,7 +60,8 @@ Consistência é fundamental! Aderir aos padrões de codificação e padrões es
 
 Irei rever a sua solicitação de pull. Participe da discussão e faça as alterações solicitadas. Suas contribuições serão mescladas no projeto uma vez aprovada!
 
-<h3>Links Úteis</h3>
+<h3 id="links">Links Úteis</h3>
 
+- [Projeto](https://facas-doppler.netlify.app)
 - [Layout](https://www.youtube.com/watch?v=6gRtjwD2w88&list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c)
 - [Layout como referência](https://skinport.com/blog/cs2-doppler-phases-guide)
